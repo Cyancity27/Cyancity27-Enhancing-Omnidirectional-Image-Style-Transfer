@@ -1,2 +1,2 @@
 # CUDA_VISIBLE_DEVICES=0 
-python cartoon_modify.py
+python styles_modify.py
